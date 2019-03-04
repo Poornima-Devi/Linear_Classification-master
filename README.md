@@ -1,1 +1,2 @@
-# Linear_Classification-master
+# Linear_Classification
+Linear Classification demo using keras
